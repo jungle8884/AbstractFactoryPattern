@@ -1,23 +1,42 @@
 package com.AbstractFactoryPattern;
 
+class Mate implements IPhone {
+
+    @Override
+    public void Reading() {
+        System.out.println("用Mate阅读.");
+    }
+}
+
+class MatePad implements IPad {
+
+    public void WatchingMovies() {
+        System.out.println("用MateBook看电影.");
+    }
+}
+
+class MateBook implements IComputer {
+
+    public void Writing() {
+        System.out.println("用MateBook写文档.");
+    }
+}
+
 // 华为工厂
 public class HuaWeiFactory implements IElectronicsFactory {
 
-    // 华为可以自己生产
-    HuaWei hw = new HuaWei();
-
-    @Override
     public void CreatePhone() {
-        hw.getPhone();
+        IPhone mate = new Mate();
+        mate.Reading();
     }
 
-    @Override
     public void CreatePad() {
-        hw.getPad();
+        IPad matePad = new MatePad();
+        matePad.WatchingMovies();
     }
 
-    @Override
     public void CreateComputer() {
-        hw.getComputer();
+        IComputer mateBook = new MateBook();
+        mateBook.Writing();
     }
 }

@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cf1ebc3-99b4-4655-844f-52c43b063a63" name="Default Changelist" comment="" />
+    <list default="true" id="1cf1ebc3-99b4-4655-844f-52c43b063a63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactoryPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactoryPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/FoxConn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/FoxConn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/HuaWei.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/HuaWeiFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/HuaWeiFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/IComputer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/IComputer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/IPad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/IPad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/IPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/IPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/com/AbstractFactoryPattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/FoxConn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/FoxConn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/HuaWei.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/HuaWeiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/HuaWeiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/IComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/IComputer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/IPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/IPad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/IPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/IPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AbstractFactoryPattern/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YViDFToPNeZVMkGJgrRLzpUa66" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,14 +48,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.validation" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\jdk1.7.0_80\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.AbstractFactoryPattern.Main" />
       <module name="AbstractFactoryPattern" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -65,6 +99,16 @@
       <option name="presentableId" value="Default" />
       <updated>1583034040592</updated>
       <workItem from="1583034042076" duration="3459000" />
+      <workItem from="1583215856542" duration="2742000" />
+      <workItem from="1583218619134" duration="938000" />
+      <workItem from="1583219575639" duration="220000" />
+      <workItem from="1583219813177" duration="390000" />
+      <workItem from="1583220220709" duration="924000" />
+      <workItem from="1583221165786" duration="1022000" />
+      <workItem from="1583224741811" duration="106000" />
+      <workItem from="1583301000196" duration="2976000" />
+      <workItem from="1584161555529" duration="1466000" />
+      <workItem from="1584239129037" duration="7000" />
     </task>
     <servers />
   </component>
@@ -72,25 +116,66 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1583037322943">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583301257942">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583037322943" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1583037980841">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583301257942" />
+    <state x="516" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583219159164">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583037980841" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1583037980841">
+    <state x="516" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583219159164" />
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1583217793128">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583037980841" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1583037980841">
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583217793128" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583217445117">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583037980841" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1583037980841">
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583217445117" />
+    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1583219886037">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583037980841" />
+    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583219886037" />
+    <state x="-802" y="726" key="FileChooserDialogImpl" timestamp="1583303313223">
+      <screen x="-1080" y="221" width="864" height="1506" />
+    </state>
+    <state x="-802" y="726" key="FileChooserDialogImpl/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1583303313223" />
+    <state x="-802" y="726" key="FileChooserDialogImpl/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583224802235" />
+    <state width="821" height="417" key="GridCell.Tab.0.bottom" timestamp="1584164428706">
+      <screen x="-1080" y="221" width="864" height="1506" />
+    </state>
+    <state width="821" height="417" key="GridCell.Tab.0.bottom/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1584164428706" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583301266267" />
+    <state width="821" height="417" key="GridCell.Tab.0.center" timestamp="1584164428706">
+      <screen x="-1080" y="221" width="864" height="1506" />
+    </state>
+    <state width="821" height="417" key="GridCell.Tab.0.center/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1584164428706" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583301266267" />
+    <state width="821" height="417" key="GridCell.Tab.0.left" timestamp="1584164428706">
+      <screen x="-1080" y="221" width="864" height="1506" />
+    </state>
+    <state width="821" height="417" key="GridCell.Tab.0.left/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1584164428706" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583301266266" />
+    <state width="821" height="417" key="GridCell.Tab.0.right" timestamp="1584164428706">
+      <screen x="-1080" y="221" width="864" height="1506" />
+    </state>
+    <state width="821" height="417" key="GridCell.Tab.0.right/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1584164428706" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583301266267" />
+    <state x="-1080" y="344" width="864" height="1277" key="SettingsEditor" timestamp="1583303470223">
+      <screen x="-1080" y="221" width="864" height="1506" />
+    </state>
+    <state x="-1080" y="344" width="864" height="1277" key="SettingsEditor/0.0.1536.834/-1080.221.864.1506@-1080.221.864.1506" timestamp="1583303470223" />
+    <state x="113" y="68" width="1038" height="707" key="SettingsEditor/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583301220712" />
+    <state x="454" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1583224744707">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="454" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583224744707" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1583217055112">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-1080.221.864.1506@0.0.1536.834" timestamp="1583217055112" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AbstractFactoryPattern$Main.ic" NAME="Main Coverage Results" MODIFIED="1583302635851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
